@@ -44,3 +44,6 @@ It is worth to check out the following projects.
 - https://github.com/jnider/bake
 - https://github.com/8gears/do
 - https://github.com/go-task/task
+- https://github.com/stylemistake/runner
+- https://github.com/jez/bask
+- https://github.com/melezhik/Sparrow6
