@@ -1,6 +1,6 @@
 # Task
 
-A simple build system executing tasks written in Bash, JavaScript, TypeScript, or Python.
+A build system executing tasks written in Bash, JavaScript, TypeScript, or Python.
 
 ## Usage
 
